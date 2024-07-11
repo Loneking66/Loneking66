@@ -1,4 +1,4 @@
-<p align="left">Hello! I´m Eric, father of three, learning how to create bugs since 2024 :D</p>
+<p align="center">Hello! I´m Eric, father of three, learning how to create bugs since 2024 :D</p>
 
 ###
 
