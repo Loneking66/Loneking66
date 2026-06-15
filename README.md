@@ -1,4 +1,4 @@
-<p align="center">Hello! I´m Eric, father of three, learning how to create bugs since 2024 :D</p>
+<p align="center">Hi, I'm Eric. I'm an ADS student focused on fullstack development with React, Next.js, Node.js and TypeScript. Currently building real-world projects and studying cloud with AWS.:D</p>
 
 ###
 
